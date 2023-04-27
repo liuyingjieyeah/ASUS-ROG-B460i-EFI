@@ -9,7 +9,7 @@ ASUS ROG B460i 黑苹果EFI Ventrua 13.2.1
 
 已定制USB，通过PCIE转接板使用白苹果网卡，蓝牙供电插在USB2.0接口通讯。因USB端口数量显示，主板的蓝牙USB通道已关闭。
 
-重要⚠️‼️从Release目录下载EFI后请自行更改三码之后再登陆自己的ID
+重要⚠️‼️下载EFI后请自行更改三码之后再登陆自己的ID
 
 ![Image](https://user-images.githubusercontent.com/16497611/234818112-6f7c703d-bd6d-4a74-bc74-bcac5f311fc9.png)
 
