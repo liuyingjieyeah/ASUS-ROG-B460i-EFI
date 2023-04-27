@@ -1,6 +1,4 @@
-# RogB460i
-
-ASUS ROG B460i 黑苹果EFI Ventrua 13.2.1
+# ASUS ROG B460i 黑苹果EFI Ventrua 13.2.1
 
 - [Motherboard] ROG STRIX B460-I GAMMING
 - [CPU] Intel Core i5-10400
